@@ -1,0 +1,13 @@
+./myrunner -i for Endless random map
+./myrunner -h for description
+./myrunner map to play with the map you chose
+
+IN GAME :
+   Space to jump
+   Q to quit
+
+THE MAP :
+    The map can be as long as you want, each '.' represents an empty space, each 'x' represents a bloc.
+    Each line must have the same length.
+    When there are not '.' or 'x' anymore, this is the end of the map -> go through the green street lamp to win
+                                                                         if you hit a wall before reaching the green street lamp, you lose -> GAME OVER
